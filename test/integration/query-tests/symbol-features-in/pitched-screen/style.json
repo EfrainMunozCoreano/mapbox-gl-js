@@ -3,16 +3,17 @@
   "metadata": {
     "test": {
       "collisionDebug": true,
-      "width": 500,
-      "height": 500,
+      "debug": true,
+      "width": 1000,
+      "height": 1000,
       "queryGeometry": [
           [
-              0,
-              0
+              100,
+              130
           ],
           [
-              500,
-              500
+              850,
+              400
           ]
       ]
     }
